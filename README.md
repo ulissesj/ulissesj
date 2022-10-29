@@ -5,7 +5,7 @@
 
 ##
 
-### 📫 Perfis Sociais
+### 📫 Redes Sociais
 <a href="https://tryhackme.com/p/odysseusxx" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Tryhackme-05122A?style=flat&logo=tryhackme" alt="codepen"/>
 </a>
