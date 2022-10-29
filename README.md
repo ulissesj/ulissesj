@@ -32,5 +32,4 @@
 
 ### 📚 Em aprendizado...
 - Pentesting no geral: Enumeration, exploitation, recon, web hacking, netsec, vulnerability research, etc
-- Computação em nuvem: Azure e AWS
-- DevOps: Kubernetes, Terraform
+- Infra: Azure, AWS, Kubernetes, Terraform
