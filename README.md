@@ -31,5 +31,5 @@
 ##
 
 ### 📚 Em aprendizado...
-- Pentesting no geral: Enumeration, exploitation, recon, web hacking, netsec, vulnerability research, etc
+- Pentesting no geral: Recon, web hacking, exploitation
 - Infra: Azure, AWS, Kubernetes, Terraform
